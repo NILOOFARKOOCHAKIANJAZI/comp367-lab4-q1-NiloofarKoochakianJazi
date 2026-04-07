@@ -1,9 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<PackageId>Niloofar.StringLibrary.Lab4Q1</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Niloofar Koochakian Jazi</Authors>
+		<Description>String extension library for COMP367 Lab 4 Q1</Description>
+	</PropertyGroup>
 
 </Project>
