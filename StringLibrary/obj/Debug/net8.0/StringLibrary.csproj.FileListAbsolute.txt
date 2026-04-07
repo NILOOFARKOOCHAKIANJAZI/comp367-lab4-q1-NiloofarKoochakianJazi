@@ -1,0 +1,11 @@
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment 4\Lab4Q1_ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
