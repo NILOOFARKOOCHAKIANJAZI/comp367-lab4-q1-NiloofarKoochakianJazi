@@ -32,5 +32,5 @@ steps:
   inputs:
     command: 'push'
     packagesToPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
-    publishVstsFeed: 'niloofar-feed-Lab4Q1'
+    publishVstsFeed: 'Lab4-Q1-Artifacts/niloofar-feed-Lab4Q1'
   displayName: 'Push package to Azure Artifacts'
