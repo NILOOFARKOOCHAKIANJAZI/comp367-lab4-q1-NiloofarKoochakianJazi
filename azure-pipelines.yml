@@ -24,7 +24,7 @@ steps:
   displayName: 'Build project'
 
 # Pack NuGet package
-- script: dotnet pack StringLibrary/StringLibrary.csproj --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+- script: dotnet pack StringLibrary/StringLibrary.csproj --configuration $(buildConfiguration) /p:PackageVersion=1.0.$(Build.BuildId) --output $(Build.ArtifactStagingDirectory)
   displayName: 'Pack NuGet package'
 
 # Push to Azure Artifacts
